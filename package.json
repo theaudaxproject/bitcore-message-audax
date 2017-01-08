@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-message-zcash",
+  "name": "bitcore-message-komodo",
   "version": "1.0.2",
   "description": "Zcash Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "zcash",
+    "komodo",
     "bitcore",
     "btc",
     "satoshi",
@@ -20,13 +20,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:zcashblockchain/bitcore-message-zcash.git"
+    "url": "git+ssh://git@github.com:komodoblockchain/bitcore-message-komodo.git"
   },
   "dependencies": {
-    "bitcore-lib-zcash": "git+ssh://git@github.com:zcashblockchain/bitcore-lib-zcash"
+    "bitcore-lib-komodo": "git+ssh://git@github.com:komodoblockchain/bitcore-lib-komodo"
   },
   "devDependencies": {
-    "bitcore-build-zcash": "git+ssh://git@github.com:bitcore-build-zcash",
+    "bitcore-build-komodo": "git+ssh://git@github.com:bitcore-build-komodo",
     "brfs": "^1.3.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10"
