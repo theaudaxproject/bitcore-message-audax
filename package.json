@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:supernetorg/bitcore-message-komodo.git"
+    "url": "git+https://git@github.com/DeckerSU/bitcore-message-komodo.git"
   },
   "dependencies": {
-    "bitcore-lib-komodo": "git+ssh://git@github.com:supernetorg/bitcore-lib-komodo"
+    "bitcore-lib-komodo": "git+https://git@github.com/DeckerSU/bitcore-lib-komodo"
   },
   "devDependencies": {
     "bitcore-build-komodo": "git+ssh://git@github.com:bitcore-build-komodo",
